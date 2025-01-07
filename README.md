@@ -1,1 +1,2 @@
-# A135f-U-u5
+# git clone 
+https://github.com/RafsTK/ImperiusKernel-A135F.git
