@@ -1,3 +1,3 @@
-1. clone kernel font and clang toolchains
+1. clone kernel font
 ```
-https://github.com/RafsTK/ImperiusKernel-A135F.git
+git clone https://github.com/HerokeTJ/ImperiusKernel-A135F.git
